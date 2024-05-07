@@ -4,9 +4,11 @@
 }
 
 #urlbar {
+    color: #e0ffff !important;
     z-index: 1 !important;
 }
 #urlbar-background {
+    /* background-color: red !important; */
     z-index: -2 !important;
     font-family: Fira Sans !important;
 }

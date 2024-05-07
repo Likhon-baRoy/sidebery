@@ -7,16 +7,16 @@
 
 /*Import hacks */
 @import url(hacks/urlHighlight.css);
-@import url(hacks/sideberyMods.css); 
-@import url(hacks/menuShow.css); 
+@import url(hacks/sideberyMods.css);
+@import url(hacks/menuShow.css);
 @import url(hacks/darkContextMenu.css);
 
-:root { 
---tabs-border-color: transparent !important; 
+:root {
+--tabs-border-color: transparent !important;
 }
 
 #urlbar, #searchbar .searchbar-textbox {
-  font-family: JetBrains Mono !important; font-size: 12pt 
+  font-family: JetBrains Mono !important; font-size: 12pt
 }
 
 #TabsToolbar, #sidebar-header, #sidebar-splitter {
